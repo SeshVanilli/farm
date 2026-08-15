@@ -1,2 +1,2 @@
-atual=1.3
-update=https://mediafire.com/file
+atual=1.0
+update=https://www.facebook.com/sete7steve?locale=pt_BR
